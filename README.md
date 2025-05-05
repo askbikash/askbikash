@@ -39,7 +39,7 @@
 
 ### 📂 Featured Projects:
 
-- **[Anbocas.com](https://anbocas.com/)** – Ticket booking platform made using Next.js, React, MUI.
+- **[Anbocas.com](https://anbocas.com)** – Ticket booking platform made using Next.js, React, MUI.
 - **[Octalbees](https://octalbees.com)** – My creative tech content and brand identity.
 - **[LIC Advisor App](https://licadvisor.in)** – Life insurance policy advisor built with Laravel and MySQL.
 
@@ -55,4 +55,3 @@
 
 ### ⚡ Fun Fact:
 I enjoy solving Rubik’s Cubes and building side projects that challenge my creativity.
-
