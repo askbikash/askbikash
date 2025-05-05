@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 Who Am I?
 
-- 🔭 I build real-world platforms like [Anbocas.com](https://anbocas.com) & [LICAdvisor.in](https://licadvisor.in)  
+- 🔭 I have worked on real-world platforms like [Anbocas.com](https://anbocas.com) & [LICAdvisor.in](http://licadvisor.in)  
 - 🚀 Creator of **Octalbees** — a platform to inspire and build with code  
 - 🧠 Self-taught developer with a focus on problem-solving and impact  
 - 💬 Fluent in: PHP, Laravel, MERN, Java, Python, SQL, Git  
@@ -40,13 +40,13 @@
 
 ### 🚀 Featured Projects
 
-- 🎫 [**Anbocas.com**](https://anbocas.com)  
+- 🎫 [**Anbocas.com**](https://www.anbocas.com)  
   Event ticket booking platform — built with **Next.js**, **React**, **MUI**
 
-- 🧠 [**Octalbees**](https://octalbees.com)  
+- 🧠 [**Octalbees**](https://www.octalbees.com)  
   Personal tech brand — tutorials, open-source, creativity
 
-- 🛡 [**LIC Advisor**](https://licadvisor.in)  
+- 🛡 [**LIC Advisor**](http://www.licadvisor.in)  
   Helps users manage life insurance — built using **Laravel** and **MySQL**
 
 ---
