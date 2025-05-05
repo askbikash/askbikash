@@ -1,6 +1,14 @@
-<h1 align="center">Hi there 👋, I'm Bikash Kumar</h1>
-<h3 align="center">A Passionate Full Stack Developer & Tech Explorer</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1E90FF&height=250&section=header&text=Hey%20There!%20I'm%20Bikash%20Kumar&fontSize=40&desc=Full%20Stack%20Developer%20%7C%20Tech%20Explorer%20%7C%20Octalbees&descSize=20&fontColor=fff&descAlignY=70" />
+</p>
 
+<!-- Animated Typing Bio -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Laravel%20%7C%20React%20%7C%20Next.js%20%7C%20Java;Founder%20of%20Octalbees;Let’s%20Build%20Something%20Cool%20Together!&center=true&size=22" />
+</p>
+
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/bikashkumar44" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,46 +20,76 @@
 
 ---
 
-### 🚀 About Me:
+### 🧑‍💻 Who Am I?
 
-- 🔭 Currently working on personal and freelance projects using PHP Laravel, MERN stack, and Python.
-- 🌱 Exploring system design, backend architecture, and scalable web solutions.
-- 👨‍💻 I love building user-centric apps that solve real-world problems.
-- 💬 Ask me about anything related to full stack development, deployment, or project structure.
+- 🔭 I build real-world platforms like [Anbocas.com](https://anbocas.com) & [LICAdvisor.in](https://licadvisor.in)  
+- 🚀 Creator of **Octalbees** — a platform to inspire and build with code  
+- 🧠 Self-taught developer with a focus on problem-solving and impact  
+- 💬 Fluent in: PHP, Laravel, MERN, Java, Python, SQL, Git  
+- 🌐 Based in India, available for freelance or full-time SDE roles  
 
 ---
 
-### 🛠️ Tech Stack:
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,java,javascript,python,mysql,html,css,git,vscode,postman" />
 </p>
 
 ---
 
-### 📂 Featured Projects:
+### 🚀 Featured Projects
 
-- **[Anbocas.com](https://anbocas.com)** – Ticket booking platform made using Next.js, React, MUI.
-- **[Octalbees](https://octalbees.com)** – My creative tech content and brand identity.
-- **[LIC Advisor App](https://licadvisor.in)** – Life insurance policy advisor built with Laravel and MySQL.
+- 🎫 [**Anbocas.com**](https://anbocas.com)  
+  Event ticket booking platform — built with **Next.js**, **React**, **MUI**
+
+- 🧠 [**Octalbees**](https://octalbees.com)  
+  Personal tech brand — tutorials, open-source, creativity
+
+- 🛡 [**LIC Advisor**](https://licadvisor.in)  
+  Helps users manage life insurance — built using **Laravel** and **MySQL**
 
 ---
 
-### 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bikashkumar&show_icons=true&theme=dark" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashkumar&theme=dark" height="160" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bikashkumar&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashkumar&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bikashkumar&theme=monokai&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### ⚡ Fun Fact:
-I enjoy solving Rubik’s Cubes and building side projects that challenge my creativity.
+### 📌 Currently Working On
+
+- Octalbees 2.0 — Blog + YouTube + Freelance Service  
+- Deep backend concepts with Laravel Queues, Events, and Workers  
+- Interview DSA with Java and LeetCode 💡  
+
+---
+
+### 💬 Live Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+### 🧩 Fun Facts
+
+- 💡 Always seeking new challenges in tech  
+- 🧠 I solve Rubik’s Cubes and debug faster than I blink 😉  
+- ✍️ I make coding tutorials using memes on Octalbees  
+- 🔥 My mantra: `if (!learned) { keepTrying(); }`
+
+---
+
+<p align="center">
+  🐝 *“First you learn, then you earn.” – Octalbees*  
+  📬 Let’s connect: <a href="https://www.linkedin.com/in/bikashkumar44">LinkedIn</a> | <a href="mailto:bikash.k3044@gmail.com">Email</a>
+</p>
