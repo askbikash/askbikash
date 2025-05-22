@@ -91,5 +91,5 @@
 
 <p align="center">
   🐝 *“First you learn, then you earn.” – Octalbees*  
-  📬 Let’s connect: <a href="https://www.linkedin.com/in/bikashkumar44">LinkedIn</a> | <a href="mailto:bikash.k3044@gmail.com">Email</a>
+  📬 Let’s connect: <a href="https://www.linkedin.com/in/bikashkumar44">LinkedIn </a> | <a href="mailto:bikash.k3044@gmail.com">Email</a>
 </p>
