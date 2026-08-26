@@ -1,27 +1,30 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1E90FF&height=220&section=header&text=Hey%20There!%20I'm%20Bikash%20Kumar&fontSize=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Explorer%20%7C%20Octalbees&descSize=18&fontColor=fff&descAlignY=70" />
-</p>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=280&section=header&text=Bikash%20Kumar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Founder%20@Octalbees&descAlignY=55&descSize=20&descColor=E6E6E6" />
+
+<div align="center">
 
 <!-- Animated Typing Bio -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Next.js+%7C+Java;Founder+of+Octalbees;Let's+Build+Something+Cool+Together!" />
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/bikashkumar44" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bikash.k3044@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.octalbees.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Octalbees-FFB300?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Next.js+%7C+Java;Founder+of+Octalbees+%F0%9F%90%9D;Let's+Build+Something+Cool+Together%21" />
 
 <br/>
+
+<!-- Badges Row -->
+<a href="https://www.linkedin.com/in/bikashkumar44" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bikash.k3044@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.octalbees.com" target="_blank">
+  <img src="https://img.shields.io/badge/Octalbees-FFB300?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:58A6FF&height=4" />
 
 ## 🧑‍💻 Who Am I?
 
