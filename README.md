@@ -15,7 +15,7 @@
 <a href="mailto:bikash.k3044@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=askbikash&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -66,15 +66,13 @@ Built and shipped full-stack features across an internal ERP platform and a cust
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=askbikash&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=askbikash&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=monokai&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=askbikash&theme=monokai&no-frame=true&row=1&column=6" />
 </p>
-
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username so the stat cards render correctly.
 
 <br/>
 
