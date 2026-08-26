@@ -1,10 +1,10 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=280&section=header&text=Bikash%20Kumar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Founder%20@Octalbees&descAlignY=55&descSize=20&descColor=E6E6E6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=280&section=header&text=Bikash%20Kumar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%202%2B%20Years%20Experience&descAlignY=55&descSize=20&descColor=E6E6E6" />
 
 <div align="center">
 
 <!-- Animated Typing Bio -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Next.js+%7C+Java;Founder+of+Octalbees+%F0%9F%90%9D;Let's+Build+Something+Cool+Together%21" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Laravel;Building+SaaS+%26+ERP+Platforms;Let's+Build+Something+Cool+Together%21" />
 
 <br/>
 
@@ -14,9 +14,6 @@
 </a>
 <a href="mailto:bikash.k3044@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.octalbees.com" target="_blank">
-  <img src="https://img.shields.io/badge/Octalbees-FFB300?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
@@ -28,19 +25,32 @@
 
 ## 🧑‍💻 Who Am I?
 
-- 🔭 Worked on real-world platforms like **[Anbocas.com](https://anbocas.com)** & **[LICAdvisor.in](http://licadvisor.in)**
-- 🚀 Creator of **Octalbees** — a platform to inspire and build with code
-- 🧠 Self-taught developer with a focus on problem-solving and impact
-- 💬 Fluent in: PHP, Laravel, MERN, Java, Python, SQL, Git
-- 🌐 Based in India, open to freelance or full-time SDE roles
+- 💻 Full-stack Software Engineer with 2+ years of experience building SaaS, ERP, and internal tooling platforms
+- 🏢 Currently a Software Engineer at **Forwardcode Techstudio Pvt Ltd**, Bhubaneswar
+- 🎓 Pursuing an MCA (Online) at Kurukshetra University, alongside a BCA from Netaji Subhas University
+- 🧠 Experienced shipping features in Agile teams and independently owning projects end-to-end — from API design to deployment
+- 🌐 Based in Bhubaneswar, Odisha — open to full-time SDE roles
 
 <br/>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,java,javascript,python,mysql,html,css,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,react,nextjs,nodejs,express,laravel,fastapi,mysql,mongodb,html,css,tailwind,bootstrap,aws,docker,git,vscode,postman" />
 </p>
+
+<br/>
+
+## 💼 Experience
+
+**Software Engineer** — Forwardcode Techstudio Pvt Ltd *(May 2025 – Present)*
+Building scalable full-stack SaaS and ERP solutions with React.js, Next.js, Node.js, Express.js, Laravel, and MySQL. Designed secure REST APIs with JWT auth, OTP verification, and Firebase integration, and optimized SQL queries for a 30% performance gain.
+
+**Associate Analyst** — Deloitte *(Feb 2025 – Mar 2025)*
+Designed and optimized ETL pipelines using Informatica PowerCenter, IICS, Python, and SQL, loading data into AWS and Snowflake data warehouses with a 30% efficiency improvement. Automated data validation and dashboard reporting, cutting manual effort by 40%.
+
+**Associate Software Engineer** — Octalbees *(Jul 2024 – Feb 2025)*
+Built and shipped full-stack features across an internal ERP platform and a customer-facing web app using React.js, FastAPI, Node.js, and MySQL. Contributed to backend API design (JWT auth, RBAC) and integrated a vector database for semantic search.
 
 <br/>
 
@@ -48,9 +58,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎫 **[Anbocas.com](https://www.anbocas.com)** | Event ticket booking platform | Next.js, React, MUI |
-| 🧠 **[Octalbees](https://www.octalbees.com)** | Personal tech brand — tutorials, open-source, creativity | — |
-| 🛡️ **[LIC Advisor](http://www.licadvisor.in)** | Helps users manage life insurance policies | Laravel, MySQL |
+| 🧩 **Octalbees ERP** | Internal Operations & HR platform with 15+ modules (RBAC, task management, attendance, leave, work logs, notifications, audit logs) across a 16-page React frontend, adopted by 10+ employees | React.js, Node.js, Express.js, MySQL, JWT |
+| 🎫 **Event Ticketing Platform** | Full-stack event ticketing platform with real-time event creation, ticket sales, instant payouts, and QR-based check-in | Laravel, Next.js, MySQL, REST API |
 
 <br/>
 
@@ -69,11 +78,18 @@
 
 <br/>
 
+## 🎓 Education
+
+- **Master of Computer Applications (MCA), Online** — Kurukshetra University *(Jul 2024 – Jul 2026, Expected)*
+- **Bachelor in Computer Application (BCA)** — Netaji Subhas University *(Jun 2021 – May 2024)*
+
+<br/>
+
 ## 📌 Currently Working On
 
-- 🐝 Octalbees 2.0 — Blog + YouTube + Freelance Services
 - ⚙️ Deep backend concepts with Laravel Queues, Events, and Workers
 - 💡 Interview DSA practice in Java on LeetCode
+- ☁️ Sharpening AWS deployment and CI/CD workflows
 
 <br/>
 
@@ -89,13 +105,10 @@
 
 - 💡 Always seeking new challenges in tech
 - 🧠 I solve Rubik's Cubes and debug code faster than I blink 😉
-- ✍️ I make coding tutorials using memes on Octalbees
 - 🔥 My mantra: `if (!learned) { keepTrying(); }`
 
 <br/>
 
 <p align="center">
-  🐝 <i>"First you learn, then you earn."</i> — Octalbees
-  <br/>
   📬 Let's connect: <a href="https://www.linkedin.com/in/bikashkumar44">LinkedIn</a> · <a href="mailto:bikash.k3044@gmail.com">Email</a>
 </p>
