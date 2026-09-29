@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=280&section=header&text=Bikash%20Kumar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%202%2B%20Years%20Experience&descAlignY=55&descSize=20&descColor=E6E6E6" />
+<img width="100%" src="assets/header.svg" alt="Bikash Kumar, Software Engineer" />
 
 <div align="center">
 
