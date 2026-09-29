@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img width="100%" src="assets/header.svg" alt="Bikash Kumar, Software Engineer" />
+<img width="100%" src="Header.svg" alt="Bikash Kumar, Software Engineer" />
 
 <div align="center">
 
