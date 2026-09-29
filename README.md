@@ -4,13 +4,19 @@
 <div align="center">
 
 <!-- Animated Typing Bio -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Laravel;Building+SaaS+%26+ERP+Platforms;Let's+Build+Something+Cool+Together%21" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%9A%80;Java+%7C+DSA+%7C+React+%7C+Node.js+%7C+Laravel;Building+SaaS+%26+ERP+Platforms;Open+to+SDE+roles+%E2%80%94+Available+Immediately" />
 
 <br/>
 
 <!-- Badges Row -->
 <a href="https://www.linkedin.com/in/bikashkumar44" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Bikash44/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.bikashdev.in" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:bikash.k3044@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -25,32 +31,32 @@
 
 ## 🧑‍💻 Who Am I?
 
-- 💻 Full-stack Software Engineer with 2+ years of experience building SaaS, ERP, and internal tooling platforms
-- 🏢 Currently a Software Engineer at **Forwardcode Techstudio Pvt Ltd**, Bhubaneswar
-- 🎓 Pursuing an MCA (Online) at Kurukshetra University, alongside a BCA from Netaji Subhas University
-- 🧠 Experienced shipping features in Agile teams and independently owning projects end-to-end — from API design to deployment
-- 🌐 Based in Bhubaneswar, Odisha — open to full-time SDE roles
+- 💻 Software Engineer with 2+ years of experience building SaaS, ERP, and internal tooling platforms
+- 🏢 Previously a Software Engineer at **Forwardcode Techstudio Pvt Ltd** (May 2025 – Aug 2026)
+- 🎓 MCA (Online) from Kurukshetra University (2026), BCA from Netaji Subhas University (2024)
+- 🧠 Experienced shipping features in Agile teams and independently owning projects end-to-end, from API design to deployment
+- 🌐 Based in Jamshedpur, Jharkhand. Open to relocate to Bangalore & Hyderabad, available immediately for full-time SDE roles
 
 <br/>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,react,nextjs,nodejs,express,laravel,fastapi,mysql,mongodb,html,css,tailwind,bootstrap,aws,docker,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,php,react,nextjs,nodejs,express,laravel,mysql,mongodb,html,css,tailwind,bootstrap,aws,docker,git,vscode,postman" />
 </p>
 
 <br/>
 
 ## 💼 Experience
 
-**Software Engineer** — Forwardcode Techstudio Pvt Ltd *(May 2025 – Present)*
-Building scalable full-stack SaaS and ERP solutions with React.js, Next.js, Node.js, Express.js, Laravel, and MySQL. Designed secure REST APIs with JWT auth, OTP verification, and Firebase integration, and optimized SQL queries for a 30% performance gain.
+**Software Engineer** — Forwardcode Techstudio Pvt Ltd *(May 2025 – Aug 2026)*
+Owned end-to-end delivery of SaaS, ERP, and CRM platforms with React.js, Next.js, Node.js, Express.js, Laravel, and MySQL. Delivered 6+ modules (HR, CRM, invoicing, inventory, purchase orders, attendance) supporting 100+ concurrent users. Designed secure REST APIs with JWT auth, OTP verification, and Firebase integration, cut API latency by 30% through SQL optimization, and reduced server load by 35% using background jobs and message queues.
 
 **Associate Analyst** — Deloitte *(Feb 2025 – Mar 2025)*
 Designed and optimized ETL pipelines using Informatica PowerCenter, IICS, Python, and SQL, loading data into AWS and Snowflake data warehouses with a 30% efficiency improvement. Automated data validation and dashboard reporting, cutting manual effort by 40%.
 
 **Associate Software Engineer** — Octalbees *(Jul 2024 – Feb 2025)*
-Built and shipped full-stack features across an internal ERP platform and a customer-facing web app using React.js, FastAPI, Node.js, and MySQL. Contributed to backend API design (JWT auth, RBAC) and integrated a vector database for semantic search.
+Worked in a 3-person Agile team shipping full-stack features across an internal ERP platform and a customer-facing web app using React.js, Laravel, Node.js, and MySQL. Built secure backends with JWT auth and RBAC, and integrated a vector database for embedding-based semantic search.
 
 <br/>
 
@@ -59,7 +65,7 @@ Built and shipped full-stack features across an internal ERP platform and a cust
 | Project | Description | Stack |
 |---|---|---|
 | 🧩 **Octalbees ERP** | Internal Operations & HR platform with 15+ modules (RBAC, task management, attendance, leave, work logs, notifications, audit logs) across a 16-page React frontend, adopted by 10+ employees | React.js, Node.js, Express.js, MySQL, JWT |
-| 🎫 **Event Ticketing Platform** | Full-stack event ticketing platform with real-time event creation, ticket sales, instant payouts, and QR-based check-in | Laravel, Next.js, MySQL, REST API |
+| 🎫 **Event Ticketing Platform** | Full-stack event ticketing platform with event creation, ticket sales, instant payouts, and QR-based check-in | Laravel, Next.js, MySQL, REST API |
 
 <br/>
 
@@ -78,15 +84,15 @@ Built and shipped full-stack features across an internal ERP platform and a cust
 
 ## 🎓 Education
 
-- **Master of Computer Applications (MCA), Online** — Kurukshetra University *(Jul 2024 – Jul 2026, Expected)*
+- **Master of Computer Applications (MCA), Online** — Kurukshetra University *(Jul 2024 – Aug 2026)*
 - **Bachelor in Computer Application (BCA)** — Netaji Subhas University *(Jun 2021 – May 2024)*
 
 <br/>
 
 ## 📌 Currently Working On
 
-- ⚙️ Deep backend concepts with Laravel Queues, Events, and Workers
 - 💡 Interview DSA practice in Java on LeetCode
+- 🌱 Learning Spring Boot for Java backend development
 - ☁️ Sharpening AWS deployment and CI/CD workflows
 
 <br/>
@@ -108,5 +114,5 @@ Built and shipped full-stack features across an internal ERP platform and a cust
 <br/>
 
 <p align="center">
-  📬 Let's connect: <a href="https://www.linkedin.com/in/bikashkumar44">LinkedIn</a> · <a href="mailto:bikash.k3044@gmail.com">Email</a>
+  📬 Let's connect: <a href="https://www.linkedin.com/in/bikashkumar44">LinkedIn</a> · <a href="https://leetcode.com/u/Bikash44/">LeetCode</a> · <a href="https://www.bikashdev.in">Portfolio</a> · <a href="mailto:bikash.k3044@gmail.com">Email</a>
 </p>
